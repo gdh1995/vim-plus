@@ -169,7 +169,7 @@ Additional advanced browsing commands:
     zL      scroll all the way right
     v       enter visual mode; use p/P to paste-and-go, use y to yank, use v/c/V to toggle visual/line/caret modes
     V       enter visual line mode
-    yc      select a first word of a sentence and enter visual mode
+    yv      select a first word of a sentence and enter visual mode
 
 Vimium C supports command repetition so, for example, hitting `5t` will open 5 tabs in rapid succession. `<esc>`
 (or `<c-[>`) will clear any partial commands in the queue and will also exit insert and find modes.
